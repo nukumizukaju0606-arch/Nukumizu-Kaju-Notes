@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investment/Portfolio_Performance.md",
+                "file": "Diary/2026-02-23.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Portfolio_Performance"
+              "title": "2026-02-23"
             }
           },
           {
@@ -194,13 +194,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "f509e5dd9d264cb9",
+  "active": "19d8beb936a36fd6",
   "lastOpenFiles": [
+    "Investment/Kaju_Research/2026-02-25_Nvidia.md",
+    "Diary/2026-02-25.md",
+    "Investment/Portfolio_Performance.md",
     "Investment/Kaju_Research/2026-02-24_SKHynix.md",
     "Investment/Kaju_Research",
     "Investment/Market_Analysis_2026-02-23.md",
     "Investment/Market_Analysis_2026-02-22.md",
-    "Investment/Portfolio_Performance.md",
     "Diary/2026-02-23.md",
     "Diary/2026-02-22.md",
     "Diary/2026-02-21.md",
